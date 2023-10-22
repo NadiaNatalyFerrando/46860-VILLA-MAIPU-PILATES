@@ -9,9 +9,13 @@ Información detallada sobre el método de Pilates Reformer y sus beneficios par
 Información detallada sobre el espacio de trabajo y su profesional a cargo.
 
 TECNOLOGÍAS UTILIZADAS
+
 HTML
+
 CSS
+
 SASS
+
 SEO
 
 CONTACTO
